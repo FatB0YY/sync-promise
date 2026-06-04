@@ -260,48 +260,9 @@ It demonstrates that promises are not only about asynchronous operations. They a
 
 Understanding these concepts helps build a deeper mental model of JavaScript runtime behavior.
 
-## Project Structure
-
-```txt
-sync-promise-lab/
-  src/
-    SyncPromise.js
-  tests/
-    SyncPromise.test.js
-  examples/
-    basic-usage.js
-  README.md
-  package.json
-```
-
 ## Running Tests
 
-```bash
-node tests/SyncPromise.test.js
-```
-
 The project uses a minimal custom test runner and does not require any testing libraries.
-
-## Running Examples
-
-```bash
-node examples/basic-usage.js
-```
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/sync-promise-lab.git
-cd sync-promise-lab
-```
-
-Run tests:
-
-```bash
-node tests/SyncPromise.test.js
-```
 
 ## Notes
 
