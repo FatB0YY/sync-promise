@@ -1,4 +1,4 @@
-# Sync Promise Lab
+# Sync Promise
 
 An experimental synchronous Promise-like implementation written in JavaScript.
 
