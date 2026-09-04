@@ -1,3 +1,5 @@
+**English** | [Русский](./README.ru.md)
+
 # Sync Promise
 
 An experimental synchronous Promise-like implementation written in JavaScript.
